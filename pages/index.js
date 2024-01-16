@@ -124,7 +124,7 @@ export default function components() {
                                     : result.error
                                     ? `好像我没看懂宝宝在想什么，请重试或换一张图片！`
                                     : result.data ||
-                                      '👶🏻: 铲屎的，你在干嘛呀？陪我玩一会儿嘛~人家好无聊的。'}
+                                      '👶🏻: 我不想上学。'}
                             </p>
                         </div>
                     </CardContent>
